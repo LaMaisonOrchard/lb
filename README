@@ -1,0 +1,21 @@
+The [lb] Project
+================
+
+The purpose of this project is to create a standard library set for D (2.0). The project
+is open to others to contribute libraries to the library set.
+
+Objectives
+
+1) Open source (LGPL 2)
+2) An intergrated consistent library set.
+3) No third party library dependencies (other than libc).
+3) Source code platform independence.
+4) Support for open standards
+5) Well documented
+6) Usable
+
+Activities
+
+1) Get it started.
+2) Posix implementation
+3) Build system
